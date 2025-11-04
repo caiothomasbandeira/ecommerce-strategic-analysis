@@ -239,9 +239,6 @@ jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root
 4. Push para a branch
 5. Abra um Pull Request
 
-## Licença
-Este projeto está sob licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 ## Contato
 - **Autor**: Caio Thomas Bandeira
 - **LinkedIn**: [linkedin.com/in/caiothomasbandeira](https://linkedin.com/in/caiothomasbandeira)
