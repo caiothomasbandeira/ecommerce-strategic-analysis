@@ -145,3 +145,48 @@ cython_debug/
 # OS
 .DS_Store
 Thumbs.db
+
+# ===== PROJECT SPECIFIC =====
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated outputs and results
+*.csv
+*.parquet
+*.json
+
+# Generated reports (keep template)
+relatorios/*.html
+!relatorios/README.md
+
+# Large datasets (if any)
+data/*.xlsx
+data/*.zip
+
+# Model artifacts
+*.pkl
+*.joblib
+*.model
+
+# Temporary analysis files
+temp/
+tmp/
+scratch/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Log files
+logs/
+*.log
+
+# Cache directories
+__pycache__/
+.cache/
+.pytest_cache/
+
+# Backup files
+README_old.md

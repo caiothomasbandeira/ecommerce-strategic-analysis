@@ -1,12 +1,24 @@
+# Core Data Science Libraries
 pandas>=1.5.0
 numpy>=1.24.0
 scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Machine Learning and Analysis
 mlxtend>=0.22.0
+
+# Visualization Libraries
 matplotlib>=3.6.0
 seaborn>=0.12.0
-scipy>=1.10.0
+plotly>=5.15.0
+
+# Development Environment
 jupyterlab>=4.0.0
 notebook>=6.5.0
 ipywidgets>=8.0.0
-plotly>=5.15.0
+
+# Performance and File Formats
+pyarrow>=10.0.0
+
+# Additional utilities
 kaleido>=0.2.1
